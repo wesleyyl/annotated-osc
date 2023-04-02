@@ -1,0 +1,9 @@
+878060269435691415: autocatalytic
+1628580592749342851: autocatalytic
+1704801590426020309: not an oscillator?
+4377980237505992891: autocatalytic
+8235847642865170870: non-autocatalytic oscillator!!
+
+8891950643548592805: 4 species, 10 reactions, non-catalytic oscillator!
+
+9081405094880446605: autocatalytic
