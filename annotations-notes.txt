@@ -1,9 +1,41 @@
-878060269435691415: autocatalytic
-1628580592749342851: autocatalytic
-1704801590426020309: not an oscillator?
-4377980237505992891: autocatalytic
-8235847642865170870: non-autocatalytic oscillator!!
+3 species, 8 reactions:
+Unsuccessful:
+878060269435691415: autocatalytic (requires it for osc behavior)
+1628580592749342851: autocatalytic (requires autocat for osc)
+1704801590426020309: not oscillatory, dampens to steady state. also autocatalytic reaction
+4377980237505992891: autocatalytic (required for osc)
+9081405094880446605: autocatalytic (required for osc)
+6108821050150987282: not an oscillator? autocatalytic
+9041372947902478281: autocatalytic (required for osc)
+2851575507242890942: not an oscillator?
+7339708211233278573
 
+
+
+
+
+3 species, 10 reactions:
+1998578866000720184: not an oscillator? slowly dampens to steady state
+7290197404150889743: autocatalytic (required for osc)
+
+
+
+
+
+
+Successful 3 Species:
+2270434047747450718: non-autocatalytic oscillator!! (3 nodes, 10 reactions)
+8235847642865170870: non-autocatalytic oscillator!! (3 nodes, 8 reactions)
+
+
+
+
+
+
+
+4 species, 10 reactions:
+N/A
+
+
+Successful 4 Species:
 8891950643548592805: 4 species, 10 reactions, non-catalytic oscillator!
-
-9081405094880446605: autocatalytic
